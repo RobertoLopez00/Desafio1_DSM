@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Desafio1</string>
+    <string name="LblBienvenida">Bienvenido a la App de calculadora!</string>
+    <string name="LblPrimerNumero">Por favor ingrese el primer numero: </string>
+    <string name="LblSegundoNumero">Por favor ingrese el segundo numero:</string>
+    <string name="BtnCalcular">Calcular</string>
+    <string name="LblResultado">Resultado:</string>
+    <string name="LblOperacion">Seleccione una operacion</string>
+    <string-array name="Operaciones">
+        <item>Suma</item>
+        <item>Resta</item>
+        <item>Multiplicacion</item>
+        <item>Division</item>
+    </string-array>
+</resources>
